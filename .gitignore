@@ -176,3 +176,5 @@ snurran.sh
 # pixi environments
 .pixi/*
 !.pixi/config.toml
+miniconda.sh
+miniconda.sh
